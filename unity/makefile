@@ -10,7 +10,7 @@ src/file.c\
 # All test source files
 
 TEST_SRC = src/file.c\
-test/test_calc.c
+test/calc.c
 
 TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).out
 # All include folders with header files
